@@ -5,7 +5,7 @@ Earthquake Prediction Program README
 This program is designed to read earthquake data from a CSV file, preprocess the data, create a Basemap plot to visualize affected areas, and split the data into training and testing sets for earthquake magnitude and depth prediction. Below is a guide on how to use this program.
 Prerequisites
 
-Database link: https://www.kaggle.com/datasets/usgs/earthquake-database
+Dataset: https://www.kaggle.com/datasets/usgs/earthquake-database
 
 Before running the program, you need to have the following Python libraries installed:
 
