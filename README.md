@@ -22,6 +22,7 @@ pip install basemap
 Usage
 
     Clone or download the CSV dataset from the provided dataset link: USGS Earthquake Database.
+    Database link:https://www.kaggle.com/datasets/usgs/earthquake-database
 
     Save the downloaded dataset as database.csv in the same directory as your Python script.
 
